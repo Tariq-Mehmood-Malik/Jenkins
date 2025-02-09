@@ -43,4 +43,7 @@ sudo systemctl enable jenkins
 sudo systemctl status jenkins
 ```
 
+Opening Jenkis web interface.
+
+` <ec2-public-ip>:8080`
 
