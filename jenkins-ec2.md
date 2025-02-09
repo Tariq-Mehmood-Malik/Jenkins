@@ -27,6 +27,9 @@ java -version
 ![JI3](images/JI13.png)
 
 
+![JI4](images/JI14.png)
+
+
 ### 4. Installing Jenkins       
 
 Following is script to install on debian/ubuntu based linux as per [Jenkins.io](https://www.jenkins.io/doc/book/installing/linux/#debianubuntu).    
@@ -40,7 +43,7 @@ sudo apt-get update
 sudo apt-get install jenkins
 ```
 
-![JI4](images/JI14.png)
+![JI5](images/JI15.png)
 
 
 
@@ -53,14 +56,14 @@ sudo systemctl status jenkins
 ```
 
 
-![JI5](images/JI15.png)
+![JI6](images/JI16.png)
 
 
 
 Opening Jenkis web interface and setting up default settings.
 
-` <ec2-public-ip>:8080`
+`<ec2-public-ip>:8080`
 
 
-![JI6](images/JI16.png)
+![JI7](images/JI17.png)
 
