@@ -6,4 +6,3 @@ I have already setupes **Jenkins** on AWS EC-2 click [here](https://github.com/T
 
 2. Pipeline for public repo
 3. Pipeline for windows client
-4. Pipeline for private repo (optional)
